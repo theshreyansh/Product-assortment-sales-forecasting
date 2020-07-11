@@ -1,2 +1,6 @@
-# Product-assortment-sales-forecasting
-Retail analytics - product assortment and sales forecasting for multiple stores in USA
+# Retail analytics - product assortment and sales forecasting for multiple stores in USA
+<p>Domain: Marketing and Retail Analytics</p>
+<p>Skills: Cluster Analysis, Discriminant Analysis, R, TABLEAU, Time Series Analysis</p>
+<p>Description: <li>The main purpose of this project is to provide an analytical solution so as to understand the Sales trend of different ‘Breakfast Cereals’ in various retail stores located in different locations in USA basis key drivers. Also, Analytics is done to predict the sales of different food items and to understand the factors affecting sales. The analytical solution will also help to segment stores based on some important variables. Segmentation of stores allows retailers to plan their merchandising, assortment of products and their marketing efforts to enhance efficiency and effectiveness.</li>
+<li> As per our first objective ‘Promotional Effectiveness’, business can design a dashboard and look into promotional activities to be undertaken.  Our second objective ‘Prediction of sales considering the key drivers’ will help business to forecast the number of units that can be sold in proportion to the future sales of that product.  With the help third objective ‘Store Segmentation’, the business can use clustering techniques to find out the performance of stores on the basis of some relevant parameters.
+</li></p>
